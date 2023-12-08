@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div>
 <img height="90em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wBm4qEwJ--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/25/c-sticker.png"/>
-<img height="90em" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png"/>
+<img height="90em" src="https://th.bing.com/th/id/OIG.2LrI5lCNprcBvBgTwG0n?pid=ImgGn"/>
 <img height="90em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--M7exMqsc--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/20/57795360-bec24f00-7713-11e9-9516-20f5f5d0f034.png"/>
 <img height="90em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--lEdEv2Wt--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/19/57803385-45802780-7726-11e9-84d9-2e4c4ca8bcdb.png"/>
 <img height="90em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--twsZDLZV--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/95/cpp_logo.png"/>
