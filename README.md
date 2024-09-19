@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/DiegoJustino-lab1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoJustino-lab1&show_icons-true&theme-dracula@include_all_commits=true&count_private-true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJustino-lab1&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoJustino-lab1&theme=dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJustino-lab1&hide=html,python"/>
 </div>
 
 <div>
