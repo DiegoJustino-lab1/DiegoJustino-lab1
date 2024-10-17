@@ -30,14 +30,15 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-<img height="90em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wBm4qEwJ--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/25/c-sticker.png"/>
+<img height="90em" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png"/>
+<img height="90em" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"/>
+<img height="90em" src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text.png"/>                                                        
+
+<img height="90em" src="https://w7.pngwing.com/pngs/725/775/png-transparent-javascript-html-logo-blog-css3-javanese-miscellaneous-angle-text.png"/>
 <img height="90em" src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png"/>
-<img height="90em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--M7exMqsc--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/20/57795360-bec24f00-7713-11e9-9516-20f5f5d0f034.png"/>
-<img height="90em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--lEdEv2Wt--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/19/57803385-45802780-7726-11e9-84d9-2e4c4ca8bcdb.png"/>
-<img height="90em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--twsZDLZV--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/95/cpp_logo.png"/>
- <img height="90em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--fC8GTFme--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/16/js-badge.png"/>
+ <img height="90em" src="https://5.imimg.com/data5/SELLER/Default/2023/12/369981375/LG/VW/AF/195873594/ad-logo-vertical-light-bg-500x500.png"/>
 <img height="90em" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_vertical_logo_icon_168900.png"/>
-<img height="90em" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
+<!--<img height="90em" src="https://i.redd.it/tu3gt6ysfxq71.png"/>-->
 </div>
 
 <div>  <a href="mailto:diegojsilva01@outlook.com"><img height="70em "src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
