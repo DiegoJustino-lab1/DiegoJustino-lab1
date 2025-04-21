@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img height="90em" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"/>
 <img height="90em" src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text.png"/>                                                        
 
-<img height="90em" src="https://w7.pngwing.com/pngs/725/775/png-transparent-javascript-html-logo-blog-css3-javanese-miscellaneous-angle-text.png"/>
+<img height="90em" src="https://img.icons8.com/m_sharp/512/FFFFFF/android-os.png"/>
 <img height="90em" src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png"/>
  <img height="90em" src="https://5.imimg.com/data5/SELLER/Default/2023/12/369981375/LG/VW/AF/195873594/ad-logo-vertical-light-bg-500x500.png"/>
 <img height="90em" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_vertical_logo_icon_168900.png"/>
